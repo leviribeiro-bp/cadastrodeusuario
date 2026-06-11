@@ -1,0 +1,6 @@
+{
+  "name": "Cadastro de Usuários",
+  "description": "Uma tela de cadastro de usuários (CRUD) utilizando React, Tailwind, Express e Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
